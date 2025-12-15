@@ -35,7 +35,6 @@ To handle language dependency:
    - Normalization  
    - Lemmatization  
 4. **Feature Extraction**
-   - Bag of Words (BoW)  
    - TF-IDF Vectorization  
 5. **Model Training**
    - Logistic Regression  
@@ -71,8 +70,4 @@ SHAP analysis helped in understanding feature importance and model decisions.
 
 ---
 
-## ▶️ How to Run the Project
-
-```bash
-pip install -r requirements.txt
 
